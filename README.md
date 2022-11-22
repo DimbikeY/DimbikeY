@@ -15,6 +15,7 @@
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=DimbikeY)](https://github.com/ryo-ma/github-profile-trophy)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DimbikeY&theme=tokyonight)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DimbikeY&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -23,6 +24,7 @@
 ![](https://komarev.com/ghpvc/?username=DimbikeY)
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=DimbikeY&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 [![Dmitrii Dolmatov StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=20572391&layout=compact&theme=tokyo-night)](https://stackoverflow.com/users/20572391/dimbikey)
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DimbikeY&theme=tokyo-night
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DimbikeY&theme=tokyo-night)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DimbikeY&theme=tokyo-night)
