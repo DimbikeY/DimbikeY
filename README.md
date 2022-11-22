@@ -20,7 +20,9 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DimbikeY&theme=tokyonight)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DimbikeY&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DimbikeY)](https://github.com/anuraghazra/github-readme-stats)
+
 ![codewars](https://www.codewars.com/users/username/badges/small)](https://www.codewars.com/users/DimbikeY)
+
 ![](https://komarev.com/ghpvc/?username=DimbikeY)
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=DimbikeY&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
