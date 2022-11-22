@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences [https://github.com/DimbikeY/Rewards/blob/main/my_resume.pdf](https://github.com/DimbikeY/Rewards/blob/main/my_resume.pdf)
 
-- ⚡ Fun fact **There is nothing fun!**
+- ⚡ Fun fact **There is always fun!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -38,3 +38,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dimbikey&show_icons=true&theme=tokyonight&title_color=10bc1c&text_color=19adb8&bg_color=8d2a8a&hide_border=true&locale=en" alt="dimbikey" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dimbikey&theme=dark" alt="dimbikey" /></p>
+
+[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/DimbikeY)
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyo-night)](https://github.com/piyushsuthar/github-readme-quotes)
