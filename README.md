@@ -1,36 +1,40 @@
-<h1 align="center">𝓗𝓮𝔂 𝓽𝓱𝓮𝓻𝓮, 𝓘'𝓶 <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Stray_kitten_Rambo002.jpg/1200px-Stray_kitten_Rambo002.jpg" target="_blank">𝓓𝓲𝓶𝓪</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">𝓓𝓪𝓽𝓪 𝓼𝓬𝓲𝓮𝓷𝓬𝓮 𝓼𝓽𝓾𝓭𝓮𝓷𝓽 𝓯𝓻𝓸𝓶 𝓡𝓾𝓼𝓼𝓲𝓪 🇷🇺</h3>
+<h1 align="center">Hey there 👋 I'm Dima</h1>
+<h3 align="center">Data science student from Russia</h3>
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dimbikey&label=Profile%20views&color=0ee139&style=flat" alt="dimbikey" /> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=DimbikeY)](https://github.com/ryo-ma/github-profile-trophy)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DimbikeY&theme=tokyonight)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DimbikeY&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DimbikeY)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dimbikey" alt="dimbikey" /></a> </p>
 
-[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/DimbikeY)  
+- 🔭 I’m currently working on **on my labs at the university**
 
-![](https://komarev.com/ghpvc/?username=DimbikeY)
+- 🌱 I’m currently learning **DB, Python**
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=DimbikeY&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-[![Dmitrii Dolmatov StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=20572391&layout=compact&theme=tokyo-night)](https://stackoverflow.com/users/20572391/dimbikey)
+- 👯 I’m looking to collaborate on **a pet project**
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DimbikeY&theme=tokyo-night)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DimbikeY&theme=tokyo-night)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DimbikeY&theme=tokyo-night)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DimbikeY&theme=tokyo-night)
-![Jokes Card](https://readme-jokes.vercel.app/api)
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyo-night)](https://github.com/piyushsuthar/github-readme-quotes)
+- 🤝 I’m looking for help with **with Maths**
+
+- 👨‍💻 All of my projects are available at [https://github.com/DimbikeY?tab=repositories](https://github.com/DimbikeY?tab=repositories)
+
+- 💬 Ask me about **Data Science**
+
+- 📫 How to reach me **dimonelas@niuitmo.ru**
+
+- 📄 Know about my experiences [https://github.com/DimbikeY/Rewards/blob/main/my_resume.pdf](https://github.com/DimbikeY/Rewards/blob/main/my_resume.pdf)
+
+- ⚡ Fun fact **There is nothing fun!**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/mwlite/in/dmitriidolmatov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/mwlite/in/dmitriidolmatov" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/20572391/dimbikey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/20572391/dimbikey" height="30" width="40" /></a>
+<a href="https://kaggle.com/https://www.kaggle.com/dmitriidolmatov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/dmitriidolmatov" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dimbikey&show_icons=true&title_color=0ecd3e&text_color=15a4c1&bg_color=be1399&hide_border=true&locale=en&layout=compact" alt="dimbikey" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dimbikey&show_icons=true&theme=tokyonight&title_color=10bc1c&text_color=19adb8&bg_color=8d2a8a&hide_border=true&locale=en" alt="dimbikey" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dimbikey&theme=dark" alt="dimbikey" /></p>
