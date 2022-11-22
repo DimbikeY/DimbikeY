@@ -21,7 +21,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DimbikeY&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DimbikeY)](https://github.com/anuraghazra/github-readme-stats)
 
-![codewars](https://www.codewars.com/users/username/badges/small)](https://www.codewars.com/users/DimbikeY)
+[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/DimbikeY)  
 
 ![](https://komarev.com/ghpvc/?username=DimbikeY)
 
