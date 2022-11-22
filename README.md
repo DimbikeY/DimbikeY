@@ -22,10 +22,10 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DimbikeY)](https://github.com/anuraghazra/github-readme-stats)
 ![codewars](https://www.codewars.com/users/username/badges/small)](https://www.codewars.com/users/DimbikeY)
 ![](https://komarev.com/ghpvc/?username=DimbikeY)
+
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=DimbikeY&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 [![Dmitrii Dolmatov StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=20572391&layout=compact&theme=tokyo-night)](https://stackoverflow.com/users/20572391/dimbikey)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DimbikeY&theme=tokyo-night
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DimbikeY&theme=tokyo-night)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DimbikeY&theme=tokyo-night)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DimbikeY&theme=tokyo-night)
