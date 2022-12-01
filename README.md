@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dimbikey" alt="dimbikey" /></a> </p>
 
+![LeetCode Stats](https://leetcode.card.workers.dev/DimbikeY?theme=default&font=baloo&extension=null)
+
 - 🔭 I’m currently working on **on my labs at the university**
 
 - 🌱 I’m currently learning **DB, Python**
