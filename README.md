@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dimbikey" alt="dimbikey" /></a> </p>
 
+[![codewars](https://www.codewars.com/users/DimbikeY/badges/large)](https://www.codewars.com/users/DimbikeY)
+
 ![LeetCode Stats](https://leetcode.card.workers.dev/DimbikeY?theme=default&font=baloo&extension=null)
 
 - 🔭 I’m currently working on **on my labs at the university**
@@ -43,7 +45,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dimbikey&" alt="dimbikey" /></p>
 
-[![codewars](https://www.codewars.com/users/DimbikeY/badges/large)](https://www.codewars.com/users/DimbikeY)
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyo-night)](https://github.com/piyushsuthar/github-readme-quotes)
