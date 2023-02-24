@@ -5,29 +5,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dimbikey" alt="dimbikey" /></a> </p>
 
+- Name: Dmitrii Dolmatov
+- Location: Saint-Petersburg, Russia
+- Major: Cloud networks, ITMO University
+- Personal track: Data Science
+
 [![codewars](https://www.codewars.com/users/DimbikeY/badges/large)](https://www.codewars.com/users/DimbikeY)
 
 ![LeetCode Stats](https://leetcode.card.workers.dev/DimbikeY?theme=default&font=baloo&extension=null)
-
-- 🔭 I’m currently working on **on my labs at the university**
-
-- 🌱 I’m currently learning **DB, Python**
-
-- 👯 I’m looking to collaborate on **a pet project**
-
-- 🤝 I’m looking for help with **with Maths**
-
-- 👨‍💻 All of my projects are available at [https://github.com/DimbikeY?tab=repositories](https://github.com/DimbikeY?tab=repositories)
-
-- 📝 I regularly (not) write articles on [https://www.linkedin.com/mwlite/in/dmitriidolmatov](https://www.linkedin.com/mwlite/in/dmitriidolmatov)
-
-- 💬 Ask me about **Data Science**
-
-- 📫 How to reach me **dimonelas@niuitmo.ru**
-
-- 📄 Know about my experiences [https://github.com/DimbikeY/Rewards/blob/main/my_resume.pdf](https://github.com/DimbikeY/Rewards/blob/main/my_resume.pdf)
-
-- ⚡ Fun fact **There is always fun!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
