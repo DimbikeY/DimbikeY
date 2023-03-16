@@ -1,7 +1,7 @@
 - Name: Dmitrii Dolmatov
 - Location: Saint-Petersburg, Russia
 - Major: Cloud networks, ITMO University: bachelor 2020-2024 
-- Personal track: Data Science with some Network exp.
+- Personal track: Java with some network exp.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dimbikey&label=Profile%20views&color=0e75b6&style=flat" alt="dimbikey" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dimbikey" alt="dimbikey" /></a> </p>
