@@ -1,6 +1,6 @@
 <h3 align="left">Connect with me:</h3>  
 <p align="left">  
-<a href="https://linkedin.com/in/https://www.linkedin.com/mwlite/in/dmitrii-dolmatov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/mwlite/in/dmitriidolmatov" height="30" width="40" /></a>  
+<a href="www.linkedin.com/in/dmitrii-dolmatov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/mwlite/in/dmitriidolmatov" height="30" width="40" /></a>  
 <a href="https://t.me/dimrudol" target="blank"><img align="center" src="https://camo.githubusercontent.com/80ce7e5afce0d7d6eff65509dd631b285bd0871273719663198aa4eda9f53a55/68747470733a2f2f313030306c6f676f732e6e65742f77702d636f6e74656e742f75706c6f6164732f323032312f30342f54656c656772616d2d6c6f676f2e706e67" alt="https://www.linkedin.com/mwlite/in/dmitriidolmatov" height="30" width="40" /></a>
 </p>  
 
